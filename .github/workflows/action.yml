@@ -12,6 +12,7 @@ jobs:
       - uses: actions/jekyll-build-pages@v1
         with: 
           destination: "GYM-000"
+      - uses: stefanzweifel/git-auto-commit-action@v4
 
 
         
