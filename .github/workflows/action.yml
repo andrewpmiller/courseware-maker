@@ -1,0 +1,20 @@
+name: "GYM-000 Release"
+on:
+  push:
+    branches:
+      - "main"
+
+jobs:
+  generate-release:
+    name: "Generate Release"
+    runs-on: "ubuntu-latest"
+
+    steps:
+      - name: "Build Jekyll bits"
+      - uses: actions/checkout@v2
+      - uses: actions/jekyll-build-pages
+        with: 
+          destination: "GYM-000"
+
+
+        
