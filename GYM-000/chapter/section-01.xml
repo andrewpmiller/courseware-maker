@@ -1,3 +1,52 @@
-<chapter display_name="Course Authoring for Gymnasts">
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>courseware-maker</title>
+<meta name="generator" content="Jekyll v3.9.2" />
+<meta property="og:title" content="courseware-maker" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://github.com/pages/andrewpmiller/courseware-maker/chapter/section-01.xml" />
+<meta property="og:url" content="https://github.com/pages/andrewpmiller/courseware-maker/chapter/section-01.xml" />
+<meta property="og:site_name" content="courseware-maker" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="courseware-maker" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","headline":"courseware-maker","url":"https://github.com/pages/andrewpmiller/courseware-maker/chapter/section-01.xml"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/pages/andrewpmiller/courseware-maker/assets/css/style.css?v=bcd945ce0d192ad919f5d27d7d6a8d0f38e207a2">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/pages/andrewpmiller/courseware-maker/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://github.com/pages/andrewpmiller/courseware-maker/">courseware-maker</a></h1>
+      
+
+      <chapter display_name="Course Authoring for Gymnasts">
   <sequential url_name="section-01-subsection-01" />
 </chapter>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  </body>
+</html>
