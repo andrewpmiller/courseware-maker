@@ -15,7 +15,7 @@ jobs:
       - name: Remove stupid CSS
         uses: JesseTG/rm@v1.0.2
         with:
-        path: ./GYM-000/assets/css/
+          path: ./GYM-000/assets/css/
       - uses: stefanzweifel/git-auto-commit-action@v4
         name: "Commit the generated bits back to the repo"
         
