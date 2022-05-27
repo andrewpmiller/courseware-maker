@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /chapter/section-01.xml
 ---
 {%- assign course = site.data.gym-000 -%}
