@@ -11,7 +11,8 @@ layout: test
 {% endfor %}
 
 ---
-
+{%- comment -%}
 <pre>
 Generated at: {{ site.time }}
 </pre>
+{%- endcomment -%}
