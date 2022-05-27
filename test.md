@@ -12,6 +12,6 @@ layout: test
 
 ---
 
-```
+<pre>
 Generated at: {{ site.time }}
-```
+</pre>
