@@ -12,6 +12,8 @@ jobs:
         name: "Jekyll the bits"
         with: 
           destination: "GYM-000"
+      - name: "Kill that CSS file!"
+        run: rm GYM-000/assets/css/style.css && rmdir GYM-000/assets/css
       - uses: stefanzweifel/git-auto-commit-action@v4
         name: "Commit the generated bits back to the repo"
 
